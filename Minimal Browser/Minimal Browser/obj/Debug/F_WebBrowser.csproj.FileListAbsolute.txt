@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.Form1.resources
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.Properties.Resources.resources
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\bin\Debug\F_WebBrowser.exe.config
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\bin\Debug\F_WebBrowser.exe
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\bin\Debug\F_WebBrowser.pdb
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.exe
+C:\Users\Dell\Desktop\F_WebBrowser\F_WebBrowser\obj\Debug\F_WebBrowser.pdb
