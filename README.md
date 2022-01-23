@@ -13,5 +13,9 @@ INSTALAÇÃO
 
 Baixe o aquivo zip/rar do Minimal Browser, apos isso extraia e execute o .exe!
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/82592176/150664629-b9413300-d629-4cff-82a4-1af8168a6289.png" width="500px" />
+</div>
+
 
 
